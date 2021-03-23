@@ -1,0 +1,2 @@
+# Hatvanyozas
+Hatványozási feladat
